@@ -44,4 +44,39 @@ This project demonstrates inheritance, encapsulation, and GUI development using 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/JavaFX-Device-Manager.git
+   git clone https://github.com/GairatbekovKasymbek/Assignment8.git
+
+---
+
+# Usage Instructions
+![image](https://github.com/user-attachments/assets/45c71be5-0b9a-4093-a8fc-9d2322ec88cd)
+![image](https://github.com/user-attachments/assets/9982f8b7-5097-4b6f-842a-ffbcf18c7082)
+![image](https://github.com/user-attachments/assets/ab747ef4-025c-4dc6-96e6-f0bee4b7d099)
+
+---
+
+# Sample Inputs
+**Smartphone:**
+- **Name: iPhone 14**
+- **Price: 999.99**
+- **Weight: 174.0**
+- **Screen Size: 6.1**
+- **Camera Resolution: 12.0**
+
+
+**Laptop:**
+- **Name: Dell XPS 13**
+- **Price: 1299.99**
+- **Weight: 1200.0**
+- **RAM Size: 16**
+- **Processor Type: Intel i7**
+
+
+**Tablet:**
+- **Name: iPad Pro**
+- **Price: 899.99**
+- **Weight: 468.0**
+- **Battery Life: 10.0**
+- **Has Stylus: Yes**
+
+
